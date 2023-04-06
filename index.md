@@ -13,4 +13,4 @@
 
 ### 編集に協力したい
 
-[CONTRIBUTING.md](https://github.com/nebocco/absendminded-encyclopedia/CONTRIBUTING.md) に編集方法の説明があります。
+[CONTRIBUTING.md](https://github.com/nebocco/absentminded-encyclopedia/CONTRIBUTING.md) に編集方法の説明があります。
