@@ -1,6 +1,6 @@
 # Kyopro Encyclopedia of Absentmind (ア！ｗ 辞典)
 
-<https://nebocco.github.io/absendminded-encyclopedia/>
+<https://nebocco.github.io/absentminded-encyclopedia/>
 
 ## これなに
 
